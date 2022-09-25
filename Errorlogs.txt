@@ -1,0 +1,1 @@
+ERROR: 2022/09/25 21:59:55 transactionsApis.go:34: bc005f4e-9f4e-42cf-a3c8-4ea6e2089e18 Error Occur during create transactions,{00000000-0000-0000-0000-000000000000 50000 GBP  false}
